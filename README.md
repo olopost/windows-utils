@@ -10,7 +10,11 @@ Launch directly emacs from Windows with wsl2 and x410 window manager
 1. Install [X410](https://x410.dev/)
 2. Configure wsl2 [Installation guide](https://docs.microsoft.com/fr-fr/windows/wsl/install-win10)
 
-3. Copy the emacs.sh file in ~/bin/
+3. Copy the emacs.sh file in ~/bin/ in WSL environment (Ubuntu or other)
+
+!!! Note
+
+    If you edit the script you can change keyboard layout and compose key or another option you want
 
 #### How to launch
 
